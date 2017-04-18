@@ -1,4 +1,7 @@
-# api documentation for  [jsonschema (v1.1.1)](https://github.com/tdegrunt/jsonschema#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsonschema.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsonschema) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsonschema.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsonschema)
+# npmdoc-jsonschema
+
+#### api documentation for  [jsonschema (v1.1.1)](https://github.com/tdegrunt/jsonschema#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsonschema.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsonschema) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsonschema.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsonschema)
+
 #### A fast and easy to use JSON Schema validator
 
 [![NPM](https://nodei.co/npm/jsonschema.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jsonschema)
