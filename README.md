@@ -1,6 +1,6 @@
 # npmdoc-jsonschema
 
-#### api documentation for  [jsonschema (v1.1.1)](https://github.com/tdegrunt/jsonschema#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsonschema.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsonschema) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsonschema.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsonschema)
+#### basic api documentation for  [jsonschema (v1.1.1)](https://github.com/tdegrunt/jsonschema#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsonschema.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsonschema) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsonschema.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsonschema)
 
 #### A fast and easy to use JSON Schema validator
 
@@ -75,7 +75,8 @@
         "test": "mocha -R spec"
     },
     "typings": "./lib/index.d.ts",
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
